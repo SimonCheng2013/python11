@@ -3,7 +3,7 @@
 # Author     :chengjin
 # @Email     :amazing2013@163.com
 # @File      :class_001_pd.py
-#导入pasdas
+#导入pasdas from
 
 import pandas as pd
 
