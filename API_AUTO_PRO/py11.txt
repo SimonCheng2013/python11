@@ -1,0 +1,8 @@
+python11期1117学习logging已经懵逼
+python11期1117是最棒的！坚强点
+2019-08-02 17:31:35,027-DEBUG-py11.py-python11-日志信息：python11期1117学习logging已经懵逼
+2019-08-02 17:31:35,048-ERROR-py11.py-python11-日志信息：python11期1117是最棒的！坚强点
+2019-08-07 15:58:12,299-DEBUG-py11.py-python11-日志信息：python11期1117学习logging已经懵逼
+2019-08-07 15:58:12,309-ERROR-py11.py-python11-日志信息：python11期1117是最棒的！坚强点
+2019-08-07 15:59:11,040-DEBUG-py11.py-python11-日志信息：python11期1117学习logging已经懵逼
+2019-08-07 15:59:11,041-ERROR-py11.py-python11-日志信息：python11期1117是最棒的！坚强点

@@ -1,0 +1,7 @@
+
+2019-08-06 16:47:50,669-ERROR-my_log.py-python11-日志信息：巴拉巴拉今天萌萌哒
+2019-08-06 16:50:38,425-INFO-my_log.py-python11-日志信息：执行用例出错：rrrrr
+2019-08-06 17:04:23,024-INFO-my_log.py-python11-日志信息：执行用例出错：rrrrr
+2019-08-06 17:05:10,510-ERROR-my_log.py-python11-日志信息：qqq
+2019-08-06 17:06:58,036-ERROR-my_log.py-python11-日志信息：执行用例出错：rrrrr
+2019-08-06 17:08:16,732-DEBUG-my_log.py-python11-日志信息：执行用例出错：ddd
